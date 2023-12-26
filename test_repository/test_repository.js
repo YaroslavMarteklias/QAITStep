@@ -1,7 +1,7 @@
 const test = 'test'
 
 function testRepository (a){
-return '$(a) repository'
+ return '$(a) repository'
 }
 
 testRepository(test)
